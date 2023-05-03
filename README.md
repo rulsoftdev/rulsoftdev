@@ -8,7 +8,7 @@ Empecé mi carrera en Java y Angular, y desde entonces he expandido mis habilida
 
 ## Tecnologías:
 
-[[![Jetpack_Compose](https://img.shields.io/badge/Jetpack Compose-0095D5?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)]()](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white)
+[![Jetpack_Compose](https://img.shields.io/badge/Jetpack Compose-0095D5?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 
