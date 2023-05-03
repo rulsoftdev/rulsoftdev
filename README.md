@@ -8,18 +8,9 @@ Empecé mi carrera en Java y Angular, y desde entonces he expandido mis habilida
 
 ## Tecnologías:
 
-- Java
-- Angular
-- NodeJS
-- Android Kotlin Jetpack Compose
-
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-</br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Jetpack_Compose](https://img.shields.io/badge/Jetpack Compose-0095D5?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)]()
+[[![Jetpack_Compose](https://img.shields.io/badge/Jetpack Compose-0095D5?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)]()](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white)
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
