@@ -9,7 +9,7 @@ Empecé mi carrera en Java y Angular, y desde entonces he expandido mis habilida
 ## Tecnologías:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-0095D5?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
@@ -21,7 +21,7 @@ Empecé mi carrera en Java y Angular, y desde entonces he expandido mis habilida
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Oracle](https://img.shields.io/badge/Oracle-4285F4?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 
 </br>
 Y alguna más...
